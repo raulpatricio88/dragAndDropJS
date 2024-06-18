@@ -1,0 +1,28 @@
+[
+    {
+    "id" : 1,
+    "precio" : 10000,
+    "imagen" : "img/1.jpeg",
+    "Nombre" : "Exploding kittens"
+    },
+    {
+    "id" : 2,
+    "precio" : 9000,
+    "imagen" : "img/ajedrez.png",
+    "Nombre" : "Ajedrez"
+    },
+    {
+    "id" : 3,
+    "precio" : 8000,
+    "imagen" : "img/buzz.PNG",
+    "Nombre" : "Buzz"
+    },
+    {
+    "id" : 4,
+    "precio" : 7000,
+    "imagen" : "img/camion.png",
+    "Nombre" : "Camion"
+    }
+    
+
+]
