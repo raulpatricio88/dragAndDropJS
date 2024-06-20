@@ -1,28 +1,27 @@
 [
     {
-    "id" : 1,
+    "id" : "exp",
     "precio" : 10000,
     "imagen" : "img/1.jpeg",
-    "Nombre" : "Exploding kittens"
+    "nombre" : "Exploding kittens"
     },
     {
-    "id" : 2,
+    "id" : "aje",
     "precio" : 9000,
     "imagen" : "img/ajedrez.png",
-    "Nombre" : "Ajedrez"
+    "nombre" : "Ajedrez"
     },
     {
-    "id" : 3,
+    "id" : "buzz",
     "precio" : 8000,
     "imagen" : "img/buzz.PNG",
-    "Nombre" : "Buzz"
+    "nombre" : "Buzz"
     },
     {
-    "id" : 4,
+    "id" : "cam",
     "precio" : 7000,
     "imagen" : "img/camion.png",
-    "Nombre" : "Camion"
+    "nombre" : "Camion"
     }
     
-
 ]
